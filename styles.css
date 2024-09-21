@@ -756,6 +756,15 @@
   .div-36 {
     margin-top: 40px;
   }
+  .div-34 {
+    margin-left: -1%;
+  }
+}
+
+@media (max-width: 600px) {
+  .div-34 {
+    margin-left: -10%;
+  }
 }
 
 .div-37 {
